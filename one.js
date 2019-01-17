@@ -1,1 +1,1 @@
-console.log("hi branch one");
+console.log("hi branch one this is the second commit into dev branch");
